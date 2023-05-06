@@ -1,5 +1,3 @@
-Put usernames into usernames.txt then run main.py after its done running check valid_usernames.txt
-
 how to run:
 open cmd
 
