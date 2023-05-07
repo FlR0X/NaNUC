@@ -40,7 +40,7 @@ def validate(users):
 faded_text = fade.purplepink(text)
 os.system('cls')
 start_time = time.time()
-response = requests.get('http://www.google.com')
+response = requests.get('https://auth.roblox.com/')
 end_time = time.time()
 
 latency = (end_time - start_time) * 1000 # Convert to milliseconds
